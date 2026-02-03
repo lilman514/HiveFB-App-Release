@@ -1,11 +1,8 @@
 # HiveFB Release
 
-This repository hosts release builds of HiveFB Loader.
+This repository hosts release builds only (no source code).
 
-## Downloads
+- **Loader**: Installer for HiveFB Loader (launcher and updater).
+- **Main app**: Portable HiveFB application.
 
-See the [Releases](https://github.com/lilman514/HiveFB-Release/releases) page for the latest installer.
-
-## License
-
-Proprietary. See the main HiveFB project for terms.
+Download the latest from the [Releases](https://github.com/lilman514/HiveFB-Release/releases) page.
